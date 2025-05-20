@@ -8,7 +8,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  build:
+  build_v2:
 
     runs-on: ubuntu-latest
 
